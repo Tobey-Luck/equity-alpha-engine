@@ -38,10 +38,7 @@ equity-alpha-engine/
 │   └── test_backtester.py
 ├── README.md
 └── requirements.txt
-<<<<<<< HEAD
 =======
-```
->>>>>>> 212cb39 (Fix project structure formatting in README)
 
 ---
 
