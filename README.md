@@ -38,7 +38,7 @@ equity-alpha-engine/
 │   └── test_backtester.py
 ├── README.md
 └── requirements.txt
-=======
+```
 
 ---
 
@@ -148,20 +148,5 @@ Core dependencies:
 
 ## Disclaimer
 
-<<<<<<< HEAD
-- Practical experience with systematic equity research workflows
-- Strong understanding of cross-sectional modeling pitfalls
-- Ability to diagnose weak models and improve them structurally
-- Comfort with realistic portfolio implementation constraints
-- Professional research hygiene suitable for buy-side or quantitative research roles
-
----
-
-## Notes
-
-This project is intended as a **research demonstration**, not an investment product.
-Results are sample-dependent and should not be interpreted as live trading performance.
-=======
 This project is for research and educational purposes only.  
 It does not constitute investment advice or a recommendation to trade any financial instrument.
->>>>>>> 212cb39 (Fix project structure formatting in README)
