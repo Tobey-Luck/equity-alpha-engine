@@ -44,7 +44,7 @@ equity-alpha-engine/
 
 ## Notebook overview
 
-### Notebook 01 — Baseline research pipeline
+### Notebook 01 - Baseline research pipeline
 
 **Purpose:**  
 Build a clean, end-to-end baseline for cross-sectional equity research.
@@ -62,7 +62,7 @@ The baseline alpha model performs poorly out-of-sample. This is an expected and 
 
 ---
 
-### Notebook 02 — Sector-neutral alpha model
+### Notebook 02 - Sector-neutral alpha model
 
 **Change introduced:**  
 Remove sector-level effects inside each daily cross-section before regression.
@@ -80,7 +80,7 @@ This demonstrates disciplined iteration without overfitting.
 
 ---
 
-### Notebook 03 — Multi-day forward-return target
+### Notebook 03 - Multi-day forward-return target
 
 **Change introduced:**  
 Predict K-day forward returns (K = 5) instead of 1-day returns.
@@ -97,7 +97,7 @@ The K-day target produces a **large, statistically significant improvement in IC
 
 ---
 
-### Notebook 04 — Portfolio implementation of K-day alpha
+### Notebook 04 - Portfolio implementation of K-day alpha
 
 **Purpose:**  
 Translate the improved K-day alpha signal into realistic portfolios.
