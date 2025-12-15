@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+
+yfinance
+pyarrow
+
+scipy
+scikit-learn
+
+pytest

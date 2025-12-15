@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.env
+.pytest_cache/
+
+data/prices/
+data/cache/
+*.parquet
+
+.ipynb_checkpoints/
