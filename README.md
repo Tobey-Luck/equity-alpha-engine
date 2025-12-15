@@ -36,7 +36,6 @@ equity-alpha-engine/
 ├── README.md
 └── requirements.txt
 
-
 ---
 
 ## Notebook overview
