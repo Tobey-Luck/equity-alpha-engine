@@ -14,29 +14,27 @@ The project progresses through a sequence of notebooks, each making **one contro
 
 ## Project structure
 
+```text
 equity-alpha-engine/
-│
 ├── notebooks/
-│ ├── 01_research_pipeline.ipynb
-│ ├── 02_alpha_model_sector_neutral.ipynb
-│ ├── 03_kday_target_ic.ipynb
-│ └── 04_kday_portfolio_backtest.ipynb
-│
+│   ├── 01_research_pipeline.ipynb
+│   ├── 02_alpha_model_sector_neutral.ipynb
+│   ├── 03_kday_target_ic.ipynb
+│   └── 04_kday_portfolio_backtest.ipynb
 ├── src/
-│ ├── data_loader.py
-│ ├── factors.py
-│ ├── alpha_model.py
-│ ├── optimizer.py
-│ └── backtester.py
-│
+│   ├── data_loader.py
+│   ├── factors.py
+│   ├── alpha_model.py
+│   ├── optimizer.py
+│   └── backtester.py
 ├── tests/
-│ ├── test_data_loader.py
-│ ├── test_factors.py
-│ ├── test_alpha_model.py
-│ ├── test_optimizer.py
-│ └── test_backtester.py
-│
-└── README.md
+│   ├── test_data_loader.py
+│   ├── test_factors.py
+│   ├── test_alpha_model.py
+│   ├── test_optimizer.py
+│   └── test_backtester.py
+├── README.md
+└── requirements.txt
 
 
 ---
